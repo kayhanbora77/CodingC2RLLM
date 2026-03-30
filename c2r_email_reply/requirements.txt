@@ -1,0 +1,18 @@
+# Lightweight stack - optimized for CPU-only, low RAM
+# Install with: pip install -r requirements.txt
+
+# Core LLM - runs on CPU, tiny footprint
+ollama  # for running LLM locally (see setup instructions)
+
+# RAG components
+chromadb==0.4.24          # local vector DB, no server needed
+sentence-transformers==2.6.1  # for embeddings (all-MiniLM-L6-v2 = only 80MB)
+
+# Email reading
+imaplib2==3.6             # IMAP email fetching
+secure-smtplib            # SMTP sending
+
+# Utilities
+pandas==2.2.1
+python-dotenv==1.0.1
+colorama==0.4.6           # colored terminal output

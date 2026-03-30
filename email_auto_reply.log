@@ -1,0 +1,254 @@
+2026-03-28 18:36:19,031 - INFO - ============================================================
+2026-03-28 18:36:19,032 - INFO - Click2Refund Email Auto-Reply (Python 3.13 + Ollama)
+2026-03-28 18:36:19,032 - INFO - LLM Model: phi3:mini
+2026-03-28 18:36:19,033 - INFO - Embed Model: nomic-embed-text
+2026-03-28 18:36:19,033 - INFO - ============================================================
+2026-03-28 18:36:19,033 - INFO - Initializing Ollama Embedder...
+2026-03-28 18:36:19,034 - INFO - Initialized Ollama Embedder with model: nomic-embed-text
+2026-03-28 18:36:19,034 - INFO - Loading FAQ database...
+2026-03-28 18:36:19,072 - INFO - Loaded 0 FAQ entries from click2refund_faq.csv
+2026-03-28 18:36:19,073 - ERROR - Failed to start: No FAQ entries loaded
+Traceback (most recent call last):
+  File "/home/kayhan/Coding/CodingC2RLLM/c2r_email_draftV2/main.py", line 646, in main
+    app = EmailAutoReplyApp()
+  File "/home/kayhan/Coding/CodingC2RLLM/c2r_email_draftV2/main.py", line 558, in __init__
+    raise ValueError("No FAQ entries loaded")
+ValueError: No FAQ entries loaded
+2026-03-28 18:38:00,021 - INFO - ============================================================
+2026-03-28 18:38:00,021 - INFO - Click2Refund Email Auto-Reply (Python 3.13 + Ollama)
+2026-03-28 18:38:00,022 - INFO - LLM Model: phi3:mini
+2026-03-28 18:38:00,022 - INFO - Embed Model: nomic-embed-text
+2026-03-28 18:38:00,022 - INFO - ============================================================
+2026-03-28 18:38:00,022 - INFO - Initializing Ollama Embedder...
+2026-03-28 18:38:00,022 - INFO - Initialized Ollama Embedder with model: nomic-embed-text
+2026-03-28 18:38:00,022 - INFO - Loading FAQ database...
+2026-03-28 18:38:00,023 - INFO - Loaded 0 FAQ entries from click2refund_faq.csv
+2026-03-28 18:38:00,023 - ERROR - Failed to start: No FAQ entries loaded
+Traceback (most recent call last):
+  File "/home/kayhan/Coding/CodingC2RLLM/c2r_email_draftV2/main.py", line 646, in main
+    app = EmailAutoReplyApp()
+  File "/home/kayhan/Coding/CodingC2RLLM/c2r_email_draftV2/main.py", line 558, in __init__
+    raise ValueError("No FAQ entries loaded")
+ValueError: No FAQ entries loaded
+2026-03-28 18:38:42,472 - INFO - ============================================================
+2026-03-28 18:38:42,472 - INFO - Click2Refund Email Auto-Reply (Python 3.13 + Ollama)
+2026-03-28 18:38:42,472 - INFO - LLM Model: phi3:mini
+2026-03-28 18:38:42,472 - INFO - Embed Model: nomic-embed-text
+2026-03-28 18:38:42,473 - INFO - ============================================================
+2026-03-28 18:38:42,473 - INFO - Initializing Ollama Embedder...
+2026-03-28 18:38:42,473 - INFO - Initialized Ollama Embedder with model: nomic-embed-text
+2026-03-28 18:38:42,473 - INFO - Loading FAQ database...
+2026-03-28 18:38:42,473 - INFO - Loaded 0 FAQ entries from click2refund_faq.csv
+2026-03-28 18:38:42,473 - ERROR - Failed to start: No FAQ entries loaded
+Traceback (most recent call last):
+  File "/home/kayhan/Coding/CodingC2RLLM/c2r_email_draftV2/main.py", line 646, in main
+    app = EmailAutoReplyApp()
+  File "/home/kayhan/Coding/CodingC2RLLM/c2r_email_draftV2/main.py", line 558, in __init__
+    raise ValueError("No FAQ entries loaded")
+ValueError: No FAQ entries loaded
+2026-03-28 18:55:23,906 - INFO - ============================================================
+2026-03-28 18:55:23,906 - INFO - Click2Refund Email Auto-Reply (Python 3.13 + Ollama)
+2026-03-28 18:55:23,906 - INFO - LLM Model: phi3:mini
+2026-03-28 18:55:23,907 - INFO - Embed Model: nomic-embed-text
+2026-03-28 18:55:23,907 - INFO - ============================================================
+2026-03-28 18:55:23,907 - INFO - Initializing Ollama Embedder...
+2026-03-28 18:55:23,907 - INFO - Initialized Ollama Embedder with model: nomic-embed-text
+2026-03-28 18:55:23,907 - INFO - Loading FAQ database...
+2026-03-28 18:55:23,908 - INFO - Loaded 0 FAQ entries from click2refund_faq.csv
+2026-03-28 18:55:23,908 - ERROR - Failed to start: No FAQ entries loaded
+Traceback (most recent call last):
+  File "/home/kayhan/Coding/CodingC2RLLM/c2r_email_draftV2/main.py", line 664, in main
+    app = EmailAutoReplyApp()
+  File "/home/kayhan/Coding/CodingC2RLLM/c2r_email_draftV2/main.py", line 576, in __init__
+    raise ValueError("No FAQ entries loaded")
+ValueError: No FAQ entries loaded
+2026-03-28 18:56:37,204 - INFO - ============================================================
+2026-03-28 18:56:37,204 - INFO - Click2Refund Email Auto-Reply (Python 3.13 + Ollama)
+2026-03-28 18:56:37,204 - INFO - LLM Model: phi3:mini
+2026-03-28 18:56:37,204 - INFO - Embed Model: nomic-embed-text
+2026-03-28 18:56:37,204 - INFO - ============================================================
+2026-03-28 18:56:37,205 - INFO - Initializing Ollama Embedder...
+2026-03-28 18:56:37,205 - INFO - Initialized Ollama Embedder with model: nomic-embed-text
+2026-03-28 18:56:37,205 - INFO - Loading FAQ database...
+2026-03-28 18:56:37,205 - ERROR - Failed to start: No FAQ entries loaded
+Traceback (most recent call last):
+  File "/home/kayhan/Coding/CodingC2RLLM/c2r_email_draftV2/main.py", line 647, in main
+    app = EmailAutoReplyApp()
+  File "/home/kayhan/Coding/CodingC2RLLM/c2r_email_draftV2/main.py", line 559, in __init__
+    raise ValueError("No FAQ entries loaded")
+ValueError: No FAQ entries loaded
+2026-03-28 19:01:24,727 - INFO - ============================================================
+2026-03-28 19:01:24,727 - INFO - Click2Refund Email Auto-Reply (Python 3.13 + Ollama)
+2026-03-28 19:01:24,727 - INFO - LLM Model: phi3:mini
+2026-03-28 19:01:24,727 - INFO - Embed Model: nomic-embed-text
+2026-03-28 19:01:24,727 - INFO - ============================================================
+2026-03-28 19:01:24,728 - INFO - Initializing Ollama Embedder...
+2026-03-28 19:01:24,728 - INFO - Initialized Ollama Embedder with model: nomic-embed-text
+2026-03-28 19:01:24,728 - INFO - Loading FAQ database...
+2026-03-28 19:01:24,728 - INFO - Detected Comma-delimited file
+2026-03-28 19:01:24,728 - INFO - Found columns: ['Question', 'Answer']
+2026-03-28 19:01:24,729 - INFO - Loaded 0 FAQ entries from click2refund_faq.csv
+2026-03-28 19:01:24,729 - ERROR - Failed to start: No FAQ entries loaded
+Traceback (most recent call last):
+  File "/home/kayhan/Coding/CodingC2RLLM/c2r_email_draftV2/main.py", line 670, in main
+    app = EmailAutoReplyApp()
+  File "/home/kayhan/Coding/CodingC2RLLM/c2r_email_draftV2/main.py", line 582, in __init__
+    raise ValueError("No FAQ entries loaded")
+ValueError: No FAQ entries loaded
+2026-03-28 19:06:02,923 - INFO - ============================================================
+2026-03-28 19:06:02,923 - INFO - Click2Refund Email Auto-Reply (Python 3.13 + Ollama)
+2026-03-28 19:06:02,923 - INFO - LLM Model: phi3:mini
+2026-03-28 19:06:02,923 - INFO - Embed Model: nomic-embed-text
+2026-03-28 19:06:02,923 - INFO - ============================================================
+2026-03-28 19:06:02,924 - INFO - Initializing Ollama Embedder...
+2026-03-28 19:06:02,924 - INFO - Initialized Ollama Embedder with model: nomic-embed-text
+2026-03-28 19:06:02,924 - INFO - Loading FAQ database...
+2026-03-28 19:06:02,925 - INFO - Successfully loaded 50 FAQs using delimiter: '	'
+2026-03-28 19:06:02,925 - INFO - Building vector store (this sends data to Ollama)...
+2026-03-28 19:06:02,925 - INFO - Creating new embeddings via Ollama (this might take a moment)...
+2026-03-28 19:06:02,925 - INFO - Generating embeddings for 50 items via Ollama...
+2026-03-28 19:06:07,866 - INFO -   Processed 10/50...
+2026-03-28 19:06:08,516 - INFO -   Processed 20/50...
+2026-03-28 19:06:08,772 - INFO -   Processed 30/50...
+2026-03-28 19:06:09,290 - INFO -   Processed 40/50...
+2026-03-28 19:06:09,701 - INFO -   Processed 50/50...
+2026-03-28 19:06:09,703 - INFO - Embeddings created and saved.
+2026-03-28 19:06:09,704 - INFO - Initializing reply generator...
+2026-03-28 19:06:09,704 - INFO - Starting main loop...
+2026-03-28 19:06:20,140 - INFO - Found 17 unread email(s)
+2026-03-28 19:06:20,140 - INFO - Processing: service@browseract.com - Product Update:Automate Hover & Right-Click 
+2026-03-28 19:06:20,141 - INFO - Generating embeddings for 1 items via Ollama...
+2026-03-28 19:06:20,196 - INFO - Top match: 0.000 - Are others in my travel group eligible to claim co
+2026-03-28 19:06:20,197 - INFO - Logged low-confidence email from service@browseract.com
+2026-03-28 19:06:20,198 - INFO - No relevant FAQ found, returning generic reply
+2026-03-28 19:06:20,805 - INFO - Processing: Coursera@m.learn.coursera.org - Ready: AI For Everyone    
+2026-03-28 19:06:20,805 - INFO - Generating embeddings for 1 items via Ollama...
+2026-03-28 19:06:20,838 - INFO - Top match: 0.000 - Are others in my travel group eligible to claim co
+2026-03-28 19:06:20,838 - INFO - Logged low-confidence email from Coursera@m.learn.coursera.org
+2026-03-28 19:06:20,839 - INFO - No relevant FAQ found, returning generic reply
+2026-03-28 19:06:21,769 - INFO - Processing: support@codepen.io - [CodePen Spark] CSS Television, Wobbly Shapes, and
+2026-03-28 19:06:21,769 - INFO - Generating embeddings for 1 items via Ollama...
+2026-03-28 19:06:21,820 - INFO - Top match: 0.000 - Are others in my travel group eligible to claim co
+2026-03-28 19:06:21,821 - INFO - Logged low-confidence email from support@codepen.io
+2026-03-28 19:06:21,821 - INFO - No relevant FAQ found, returning generic reply
+2026-03-28 19:06:22,603 - INFO - Processing: lennert@airweave.ai - Launch Week 2, Day 1: Agentic Search is live
+2026-03-28 19:06:22,604 - INFO - Generating embeddings for 1 items via Ollama...
+2026-03-28 19:06:22,633 - INFO - Top match: 0.000 - Are others in my travel group eligible to claim co
+2026-03-28 19:06:22,633 - INFO - Logged low-confidence email from lennert@airweave.ai
+2026-03-28 19:06:22,634 - INFO - No relevant FAQ found, returning generic reply
+2026-03-28 19:06:23,322 - INFO - Processing: Coursera@m.learn.coursera.org - Now 40% off—Grow your skills with Coursera
+2026-03-28 19:06:23,322 - INFO - Generating embeddings for 1 items via Ollama...
+2026-03-28 19:06:23,363 - INFO - Top match: 0.000 - Are others in my travel group eligible to claim co
+2026-03-28 19:06:23,364 - INFO - Logged low-confidence email from Coursera@m.learn.coursera.org
+2026-03-28 19:06:23,364 - INFO - No relevant FAQ found, returning generic reply
+2026-03-28 19:06:23,938 - INFO - Processing: lennert@airweave.ai - Launch Week 2, Day 2: Airweave Connect is live
+2026-03-28 19:06:23,938 - INFO - Generating embeddings for 1 items via Ollama...
+2026-03-28 19:06:23,989 - INFO - Top match: 0.000 - Are others in my travel group eligible to claim co
+2026-03-28 19:06:23,990 - INFO - Logged low-confidence email from lennert@airweave.ai
+2026-03-28 19:06:23,990 - INFO - No relevant FAQ found, returning generic reply
+2026-03-28 19:06:24,481 - INFO - Processing: jobs-listings@linkedin.com - Infonal is hiring a Yazılım Mühendisi
+2026-03-28 19:06:24,481 - INFO - Generating embeddings for 1 items via Ollama...
+2026-03-28 19:06:24,530 - INFO - Top match: 0.000 - Are others in my travel group eligible to claim co
+2026-03-28 19:06:24,530 - INFO - Logged low-confidence email from jobs-listings@linkedin.com
+2026-03-28 19:06:24,531 - INFO - No relevant FAQ found, returning generic reply
+2026-03-28 19:06:25,003 - INFO - Processing: team@datacamp.com - Sale extended: A few hours left to save 50% on Pre
+2026-03-28 19:06:25,003 - INFO - Generating embeddings for 1 items via Ollama...
+2026-03-28 19:06:25,060 - INFO - Top match: 0.000 - Are others in my travel group eligible to claim co
+2026-03-28 19:06:25,061 - INFO - Logged low-confidence email from team@datacamp.com
+2026-03-28 19:06:25,061 - INFO - No relevant FAQ found, returning generic reply
+2026-03-28 19:06:25,529 - INFO - Processing: jobalerts-noreply@linkedin.com - “Yazılım Mühendisi”: KriptoK - Full Stack Engineer
+2026-03-28 19:06:25,529 - INFO - Generating embeddings for 1 items via Ollama...
+2026-03-28 19:06:25,590 - INFO - Top match: 0.000 - Are others in my travel group eligible to claim co
+2026-03-28 19:06:25,593 - INFO - Logged low-confidence email from jobalerts-noreply@linkedin.com
+2026-03-28 19:06:25,593 - INFO - No relevant FAQ found, returning generic reply
+2026-03-28 19:06:26,140 - INFO - Processing: jobalerts-noreply@linkedin.com - “Yazılım Mühendisi”: BGTS - Python Developer and m
+2026-03-28 19:06:26,141 - INFO - Generating embeddings for 1 items via Ollama...
+2026-03-28 19:06:26,184 - INFO - Top match: 0.000 - Are others in my travel group eligible to claim co
+2026-03-28 19:06:26,184 - INFO - Logged low-confidence email from jobalerts-noreply@linkedin.com
+2026-03-28 19:06:26,184 - INFO - No relevant FAQ found, returning generic reply
+2026-03-28 19:06:26,655 - INFO - Processing: hi@news.kilocode.ai - Your Kilo balance now unlocks KiloClaw 🦞
+2026-03-28 19:06:26,656 - INFO - Generating embeddings for 1 items via Ollama...
+2026-03-28 19:06:26,702 - INFO - Top match: 0.000 - Are others in my travel group eligible to claim co
+2026-03-28 19:06:26,702 - INFO - Logged low-confidence email from hi@news.kilocode.ai
+2026-03-28 19:06:26,703 - INFO - No relevant FAQ found, returning generic reply
+2026-03-28 19:06:27,173 - INFO - Processing: support-newsletter@flightaware.com - FlightAware Weekly Aviation News & Photo Newslette
+2026-03-28 19:06:27,173 - INFO - Generating embeddings for 1 items via Ollama...
+2026-03-28 19:06:27,216 - INFO - Top match: 0.000 - Are others in my travel group eligible to claim co
+2026-03-28 19:06:27,216 - INFO - Logged low-confidence email from support-newsletter@flightaware.com
+2026-03-28 19:06:27,216 - INFO - No relevant FAQ found, returning generic reply
+2026-03-28 19:06:27,691 - INFO - Processing: jobalerts-noreply@linkedin.com - “Java Yazılım Mühendisi”: PROFEN - Senior Software
+2026-03-28 19:06:27,691 - INFO - Generating embeddings for 1 items via Ollama...
+2026-03-28 19:06:27,748 - INFO - Top match: 0.000 - Are others in my travel group eligible to claim co
+2026-03-28 19:06:27,749 - INFO - Logged low-confidence email from jobalerts-noreply@linkedin.com
+2026-03-28 19:06:27,749 - INFO - No relevant FAQ found, returning generic reply
+2026-03-28 19:06:28,214 - INFO - Processing: jobalerts-noreply@linkedin.com - “Java Yazılım Mühendisi”: PROFEN - Senior Software
+2026-03-28 19:06:28,215 - INFO - Generating embeddings for 1 items via Ollama...
+2026-03-28 19:06:28,268 - INFO - Top match: 0.000 - Are others in my travel group eligible to claim co
+2026-03-28 19:06:28,269 - INFO - Logged low-confidence email from jobalerts-noreply@linkedin.com
+2026-03-28 19:06:28,269 - INFO - No relevant FAQ found, returning generic reply
+2026-03-28 19:06:28,737 - INFO - Processing: team@newsletter.learnprompting.org - We're going live with the Google AI Studio team
+2026-03-28 19:06:28,737 - INFO - Generating embeddings for 1 items via Ollama...
+2026-03-28 19:06:28,781 - INFO - Top match: 0.000 - Are others in my travel group eligible to claim co
+2026-03-28 19:06:28,781 - INFO - Logged low-confidence email from team@newsletter.learnprompting.org
+2026-03-28 19:06:28,781 - INFO - No relevant FAQ found, returning generic reply
+2026-03-28 19:06:29,249 - INFO - Processing: changelog@neon.tech - Automatic compute cache prewarming, Neon in Stripe
+2026-03-28 19:06:29,250 - INFO - Generating embeddings for 1 items via Ollama...
+2026-03-28 19:06:29,306 - INFO - Top match: 0.000 - Are others in my travel group eligible to claim co
+2026-03-28 19:06:29,307 - INFO - Logged low-confidence email from changelog@neon.tech
+2026-03-28 19:06:29,307 - INFO - No relevant FAQ found, returning generic reply
+2026-03-28 19:06:29,783 - INFO - Processing: jobalerts-noreply@linkedin.com - “Java Yazılım Mühendisi”: PROFEN - Senior Software
+2026-03-28 19:06:29,783 - INFO - Generating embeddings for 1 items via Ollama...
+2026-03-28 19:06:29,833 - INFO - Top match: 0.000 - Are others in my travel group eligible to claim co
+2026-03-28 19:06:29,834 - INFO - Logged low-confidence email from jobalerts-noreply@linkedin.com
+2026-03-28 19:06:29,834 - INFO - No relevant FAQ found, returning generic reply
+2026-03-28 19:06:30,512 - INFO - Waiting 90 seconds...
+
+2026-03-28 19:08:02,108 - INFO - Found 1 unread email(s)
+2026-03-28 19:08:02,108 - INFO - Processing: no-reply@amazonaws.com - Your AWS free plan is ending soon
+2026-03-28 19:08:02,108 - INFO - Generating embeddings for 1 items via Ollama...
+2026-03-28 19:08:02,136 - INFO - Top match: 0.000 - Are others in my travel group eligible to claim co
+2026-03-28 19:08:02,137 - INFO - Logged low-confidence email from no-reply@amazonaws.com
+2026-03-28 19:08:02,137 - INFO - No relevant FAQ found, returning generic reply
+2026-03-28 19:08:02,871 - INFO - Waiting 90 seconds...
+
+2026-03-28 19:09:34,376 - INFO - Waiting 90 seconds...
+
+2026-03-28 19:11:06,121 - INFO - Waiting 90 seconds...
+
+2026-03-28 19:12:13,620 - INFO - 
+Shutting down gracefully...
+2026-03-28 19:17:18,631 - INFO - ============================================================
+2026-03-28 19:17:18,631 - INFO - Click2Refund Email Auto-Reply (Python 3.13 + Ollama)
+2026-03-28 19:17:18,631 - INFO - LLM Model: phi3:mini
+2026-03-28 19:17:18,632 - INFO - Embed Model: nomic-embed-text
+2026-03-28 19:17:18,632 - INFO - ============================================================
+2026-03-28 19:17:18,632 - INFO - Initializing Ollama Embedder...
+2026-03-28 19:17:18,632 - INFO - Initialized Ollama Embedder with model: nomic-embed-text
+2026-03-28 19:17:18,632 - INFO - Loading FAQ database...
+2026-03-28 19:17:18,633 - INFO - Successfully loaded 50 FAQs using delimiter: '	'
+2026-03-28 19:17:18,633 - INFO - Building vector store (this sends data to Ollama)...
+2026-03-28 19:17:18,634 - INFO - Loaded existing embeddings with 50 vectors
+2026-03-28 19:17:18,634 - INFO - Initializing reply generator...
+2026-03-28 19:17:18,634 - INFO - Loaded 0 processed email IDs
+2026-03-28 19:17:18,634 - INFO - Starting main loop...
+2026-03-28 19:17:20,138 - INFO - Waiting 90 seconds...
+
+2026-03-28 19:18:52,457 - INFO - Found 2 unread email(s)
+2026-03-28 19:18:52,457 - INFO - Processing: noreply@medium.com - Multimodal Large Language Models: Architectures, T
+2026-03-28 19:18:52,481 - INFO - Generating embeddings for 1 items via Ollama...
+2026-03-28 19:18:54,429 - INFO - Top match: 0.000 - Are others in my travel group eligible to claim co
+2026-03-28 19:18:54,430 - INFO - Logged low-confidence email from noreply@medium.com
+2026-03-28 19:18:54,431 - INFO - No relevant FAQ found, returning generic reply
+2026-03-28 19:18:55,273 - INFO - No relevant FAQ found, returning generic reply
+2026-03-28 19:18:56,489 - INFO - Processing: no-reply@amazonaws.com - Your AWS free plan is ending soon
+2026-03-28 19:18:56,490 - INFO - Generating embeddings for 1 items via Ollama...
+2026-03-28 19:18:56,549 - INFO - Top match: 0.000 - Are others in my travel group eligible to claim co
+2026-03-28 19:18:56,550 - INFO - Logged low-confidence email from no-reply@amazonaws.com
+2026-03-28 19:18:56,550 - INFO - No relevant FAQ found, returning generic reply
+2026-03-28 19:18:57,334 - INFO - No relevant FAQ found, returning generic reply
+2026-03-28 19:18:58,642 - INFO - Waiting 90 seconds...
+
+2026-03-28 19:20:30,177 - INFO - Waiting 90 seconds...
+
+2026-03-28 19:21:21,007 - INFO - 
+Shutting down gracefully...

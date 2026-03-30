@@ -1,0 +1,11 @@
+Q: How do I reset my mobile banking password?
+A: Go to login screen → Forgot Password → Enter registered mobile number → OTP will be sent → Set new password.
+
+Q: Is UPI available 24/7?
+A: Yes, UPI transactions are available 24×7 including holidays.
+
+Q: What is the daily UPI limit?
+A: ₹1,00,000 per day for most accounts (subject to bank policy).
+
+Q: How to register for internet banking?
+A: Visit branch or use mobile app → Registration → Enter account number, debit card details and set credentials.

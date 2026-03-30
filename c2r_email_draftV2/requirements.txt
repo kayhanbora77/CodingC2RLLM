@@ -1,0 +1,10 @@
+# CPU-optimized versions for low-RAM systems
+torch==2.5.1+cpu --extra-index-url https://download.pytorch.org/whl/cpu
+transformers==4.46.2
+sentence-transformers==3.0.1
+faiss-cpu==1.13.2
+numpy==1.26.3
+requests==2.31.0
+python-dotenv==1.0.0
+colorama==0.4.6
+psutil==5.9.6
